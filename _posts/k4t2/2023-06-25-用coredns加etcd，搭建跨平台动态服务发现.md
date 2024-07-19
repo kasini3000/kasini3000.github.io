@@ -15,7 +15,7 @@ https://github.com/coredns/coredns/releases
 相关下载：
 https://gitee.com/chuanjiao10/powershell/tree/master/ddns_server/coredns
 cdns11.ps1=第1个dns启动脚本（win）
-cdns11.txt=第1个dnsdns配置文件
+cdns11.txt=第1个dns配置文件
 cdns12.ps1=第2个dns启动脚本（win）
 cdns12.txt=第2个dns配置文件
 启动脚本，主要解决win中，无法动态加载配置文件问题。
