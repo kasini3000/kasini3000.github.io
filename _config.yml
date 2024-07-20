@@ -3,7 +3,6 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme 
 
-title: 逆练k8欧阳疯的博客
-permalink: /:year/:month/:day/:title/
+title: https://kasini3000.github.io
 baseurl: "_posts/" # the subpath of your site, e.g. /blog
 url: "https://kasini3000.github.io" # the base hostname & protocol for your site
