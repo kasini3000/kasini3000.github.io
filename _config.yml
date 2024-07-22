@@ -4,6 +4,6 @@ plugins:
 - jekyll-remote-theme 
 
 title: https://kasini3000.github.io
-permalink: /:categories/:year/:month/:day/:title
+permalink: /:categories/:year/:month/:day/:title/
 paginate: 9
 paginate_path: "page:num"
