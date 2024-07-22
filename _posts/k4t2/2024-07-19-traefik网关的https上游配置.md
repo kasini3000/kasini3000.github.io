@@ -1,3 +1,12 @@
+﻿---
+categories: k4t2
+layout: post
+permalink: /k4t2/traefik网关的https上游配置
+---
+
+
+
+
 # traefik网关的https上游配置
 
 traefik v2 https 上游 upstream 边缘 Edge Gateway 博客园 services

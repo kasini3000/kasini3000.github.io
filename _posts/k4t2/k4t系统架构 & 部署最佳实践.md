@@ -1,4 +1,13 @@
-﻿# 《kaiiit船长》 容器自动管理软件 （k4t，国产k8s）
+﻿---
+categories: k4t2
+layout: post
+permalink: /k4t2/k4t系统架构 & 部署最佳实践
+---
+
+
+
+
+# 《kaiiit船长》 容器自动管理软件 （k4t，国产k8s）
 
 # k4t系统架构 & 部署最佳实践
 

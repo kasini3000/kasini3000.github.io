@@ -1,8 +1,10 @@
 ﻿---
 categories: k4t2
 layout: post
-title: 网关神器traefik的，etcd和https配置例子
+permalink: /k4t2/网关神器traefik的，etcd和https配置例子
 ---
+
+
 
 # 网关神器traefik的，etcd和https配置例子
 

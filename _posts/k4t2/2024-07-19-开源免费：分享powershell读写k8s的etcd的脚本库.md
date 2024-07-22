@@ -1,4 +1,13 @@
-﻿powershell etcd read write put get del kubernetes k8s 读写 博客园
+﻿---
+categories: k4t2
+layout: post
+permalink: /k4t2/开源免费：分享powershell读写k8s的etcd的脚本库
+---
+
+# 开源免费：分享powershell读写k8s的etcd的脚本库
+
+
+powershell etcd read write put get del kubernetes k8s 读写 博客园
 
 # ---【前言】---
 
