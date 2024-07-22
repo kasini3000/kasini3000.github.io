@@ -2,6 +2,7 @@
 categories: k4t2
 layout: post
 title: coredns ddns 服务发现 动态 service discovery
+permalink: /k4t2/用coredns加etcd，搭建跨平台动态服务发现
 ---
 
 coredns ddns 服务发现 动态 service discovery
