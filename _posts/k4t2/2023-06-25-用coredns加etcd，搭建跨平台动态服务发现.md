@@ -1,6 +1,7 @@
 ﻿---
-layout: default
 categories: k4t2
+layout: post
+title: coredns ddns 服务发现 动态 service discovery
 ---
 
 coredns ddns 服务发现 动态 service discovery

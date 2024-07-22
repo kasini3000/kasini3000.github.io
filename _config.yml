@@ -4,6 +4,6 @@ plugins:
 - jekyll-remote-theme 
 
 title: https://kasini3000.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kasini3000.github.io" # the base hostname & protocol for your site
 permalink: /:categories/:year/:month/:day/:title
+paginate: 9
+paginate_path: "page:num"
