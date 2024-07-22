@@ -1,4 +1,15 @@
-﻿# 简介
+﻿---
+categories: k4t2
+layout: post
+permalink: /k4t2/动态负载均衡网关《envoy powershell 遥控器》项目开源了
+---
+
+
+
+
+# 动态负载均衡网关《envoy powershell 遥控器》项目开源了
+
+# 简介
 
 我的《envoy powershell 遥控器》项目开源免费了
 
