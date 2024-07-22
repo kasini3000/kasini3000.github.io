@@ -7,13 +7,12 @@ title: https://kasini3000.github.io
 paginate: 9
 paginate_path: "page:num"
 
-# 禁用默认的日期前缀
-future: false
-
-# 设置默认的布局
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
+permalink: /:categories/:title/
+navbar-links:
+  主页: "https://zoharandroid.github.io"
+  分类: "https://zoharandroid.github.io/categories/"
+  标签: "https://zoharandroid.github.io/tags/"
+  项目:
+    - Learn markdown: "http://www.markdowntutorial.com/"
+  关于我: "aboutme"
+  搜索: "search"
