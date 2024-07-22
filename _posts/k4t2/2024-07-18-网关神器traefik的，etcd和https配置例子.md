@@ -1,4 +1,9 @@
-﻿# 网关神器traefik的，etcd和https配置例子
+﻿---
+layout: default
+categories: k4t2
+---
+
+# 网关神器traefik的，etcd和https配置例子
 
 traefik v2 https router service etcd 边缘 Edge Gateway 博客园
 

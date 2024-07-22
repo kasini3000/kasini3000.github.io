@@ -1,4 +1,8 @@
-﻿
+﻿---
+layout: default
+categories: k4t2
+---
+
 coredns ddns 服务发现 动态 service discovery
 
 2023-0625 第一版
