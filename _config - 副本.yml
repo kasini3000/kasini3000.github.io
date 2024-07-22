@@ -4,16 +4,6 @@ plugins:
 - jekyll-remote-theme 
 
 title: https://kasini3000.github.io
+permalink: /:categories/:title/
 paginate: 9
 paginate_path: "page:num"
-
-# 禁用默认的日期前缀
-future: false
-
-# 设置默认的布局
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
