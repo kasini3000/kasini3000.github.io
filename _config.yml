@@ -7,6 +7,7 @@ title: https://kasini3000.github.io
 paginate: 9
 paginate_path: "page:num"
 
-permalink: /:categories/:title/
+#permalink: /:categories/:title/
+permalink: /:title
 include:
-  - '_posts/**/*'
+  - "_posts/*/*"
