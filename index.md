@@ -10,7 +10,7 @@ type: tages
 
 ---
 
-文章分类： [powershell](https://kasini3000.github.io/powershell)	  🐮  	[kasini3000](https://kasini3000.github.io/kasini3000)	  🐟  	[k4t2](https://kasini3000.github.io/k4t2)
+文章分类： [powershell](https://kasini3000.github.io/powershell)		🐮		[kasini3000](https://kasini3000.github.io/kasini3000)		🐟		[k4t2](https://kasini3000.github.io/k4t2)		🌞		[杂](https://kasini3000.github.io/mix)
 
 ---
 
