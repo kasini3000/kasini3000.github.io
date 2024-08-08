@@ -1,7 +1,7 @@
 ﻿---
 categories: powershell
 layout: post
-permalink: /powershell/powershell小工具，efs加解密三剑客。
+permalink: /powershell/powershell小工具，efs加解密三剑客
 ---
 
 
